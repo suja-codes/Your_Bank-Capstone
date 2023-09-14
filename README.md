@@ -4,7 +4,14 @@
 
 <h3 align="center">Your Bank, a MERN stack application</h3>
 <br>
-Watch it in action at https://suja-codes.github.io/Bank/
+<br>
+
+Banking Application Demo Snippet:
+
+https://github.com/suja-codes/Your_Bank-Capstone/assets/104742558/bf4b795a-c981-4803-9b5e-a337daff6342
+
+*Click to see: [Github page for this repository]( https://suja-codes.github.io/Your_Bank-Capstone/)*
+
 <br>
 
 ### Description
@@ -51,7 +58,7 @@ This project can be still be improved by refactoring code to include:
 This exercise stems from MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN Program
 
 > MIT License
-> Copyright (c) 2022 Sujatha Arunagiri
+> Copyright (c) 2023 Sujatha Arunagiri
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
 > in the Software without restriction, including without limitation the rights
